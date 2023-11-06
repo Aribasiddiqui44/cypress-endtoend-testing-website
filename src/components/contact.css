@@ -1,0 +1,11 @@
+.contact{
+    background-color: rgb(207, 233, 241);
+    height: 100vh;
+    background: url('https://media.istockphoto.com/id/1072642050/photo/young-woman-artist-working-on-painting-in-studio-selective-focus-on-foreground.webp?b=1&s=170667a&w=0&k=20&c=quHYxw0NsMWvinw9-mvKtgCV--502s5x02forCkdQ7A=');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 50px;
+    padding-left: 20px;
+}

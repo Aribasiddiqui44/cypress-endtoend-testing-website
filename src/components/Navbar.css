@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    background-color: rgb(236, 226, 226);
+    width: 100vw;
+    padding: 0px;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbartitle{
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    list-style-type: none;
+    margin-right: 70px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
